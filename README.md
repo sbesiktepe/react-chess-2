@@ -11,3 +11,5 @@ Welcome to the React Chess Game, a web-based chess application built with React.
 - Drag and Drop libray,
 - Behaviour Subject Libray (subscriable subject behaviour)
 
+Visit this React-Chess game [here](https://react-chess-2.netlify.app/) to explore my work and skills.
+
